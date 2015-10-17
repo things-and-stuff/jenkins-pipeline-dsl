@@ -1,4 +1,4 @@
-package com.ofg.pipeline.core
+package eu.thingsandstuff.pipeline
 
 
 class JenkinsVariables {

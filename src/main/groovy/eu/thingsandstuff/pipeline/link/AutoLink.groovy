@@ -1,9 +1,9 @@
-package com.ofg.pipeline.core.link
+package eu.thingsandstuff.pipeline.link
 
-import com.ofg.pipeline.core.JobRef
-import com.ofg.pipeline.core.Project
-import com.ofg.pipeline.core.TriggerCondition
-import com.ofg.pipeline.core.Variable
+import eu.thingsandstuff.pipeline.JobRef
+import eu.thingsandstuff.pipeline.Project
+import eu.thingsandstuff.pipeline.TriggerCondition
+import eu.thingsandstuff.pipeline.Variable
 import javaposse.jobdsl.dsl.helpers.publisher.PublisherContext
 
 public class AutoLink<P extends Project> extends AbstractPublishersFocusedJobChainLink<P> {

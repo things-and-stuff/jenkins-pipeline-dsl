@@ -1,4 +1,4 @@
-package com.ofg.pipeline.core
+package eu.thingsandstuff.pipeline
 
 import com.google.common.base.CaseFormat
 import javaposse.jobdsl.dsl.Job

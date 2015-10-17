@@ -1,4 +1,4 @@
-package com.ofg.pipeline.core
+package eu.thingsandstuff.pipeline
 
 /**
  * Enumerates valid {@code condition}-s that can be passed to

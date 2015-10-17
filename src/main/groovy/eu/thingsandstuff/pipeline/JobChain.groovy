@@ -1,7 +1,7 @@
-package com.ofg.pipeline.core
+package eu.thingsandstuff.pipeline
 
-import com.ofg.pipeline.core.link.AutoLink
-import com.ofg.pipeline.core.link.JobChainLink
+import eu.thingsandstuff.pipeline.link.AutoLink
+import eu.thingsandstuff.pipeline.link.JobChainLink
 import javaposse.jobdsl.dsl.Job
 
 class JobChain<P extends Project> {

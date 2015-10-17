@@ -1,7 +1,7 @@
-package com.ofg.pipeline.core.link
+package eu.thingsandstuff.pipeline.link
 
-import com.ofg.pipeline.core.JobRef
-import com.ofg.pipeline.core.Project
+import eu.thingsandstuff.pipeline.JobRef
+import eu.thingsandstuff.pipeline.Project
 import javaposse.jobdsl.dsl.Job
 
 interface JobChainLink<P extends Project> {

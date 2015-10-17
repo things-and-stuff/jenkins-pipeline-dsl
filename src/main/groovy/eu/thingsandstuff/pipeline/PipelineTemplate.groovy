@@ -1,4 +1,4 @@
-package com.ofg.pipeline.core
+package eu.thingsandstuff.pipeline
 
 //TODO include view creation before opensourcing
 interface PipelineTemplate<P extends Project> {

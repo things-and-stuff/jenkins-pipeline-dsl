@@ -1,4 +1,4 @@
-package com.ofg.pipeline.core
+package eu.thingsandstuff.pipeline
 
 /**
  * Represents a project for which the Pipeline DSL is used to build a pipeline for. The only requirement

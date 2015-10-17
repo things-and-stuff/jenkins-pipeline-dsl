@@ -1,4 +1,4 @@
-package com.ofg.pipeline.core
+package eu.thingsandstuff.pipeline
 
 public interface JobRef<P extends Project> {
     JobType getJobType()
