@@ -22,7 +22,7 @@ ext {
 
 dependencies {
     provided 'org.codehaus.groovy:groovy-all:1.8.9'
-    provided 'com.google.guava:guava:18.0'
+    provided 'com.google.guava:guava:14.0'
     provided("org.jenkins-ci.plugins:job-dsl-core:${project.ext.jobDslVersion}") {
         exclude module: 'groovy-all'
     }
